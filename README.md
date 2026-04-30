@@ -1,1 +1,3 @@
-test
+- [x] Learn Programming
+- [ ] Lose sanity
+- [ ] Question life choices
